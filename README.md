@@ -81,4 +81,4 @@ The scripts come from one research pipeline and run in order. Each reads the pre
 
 ## Author
 
-Ayoola Fadare · MSc Business Analytics (2025) · [LinkedIn](https://www.linkedin.com/in/your-profile) <!-- replace -->
+Ayoola Fadare · MSc Business Analytics (2025) · [LinkedIn](https://www.linkedin.com/in/ayoola-fadare-78916b107)
